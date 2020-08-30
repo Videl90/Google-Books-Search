@@ -1,0 +1,14 @@
+.jumbotron-fluid {
+    background-color: #d6e0f0;
+    color:8d93ab;
+    text-align: center;
+    height:200px;
+}
+
+.lead {
+    margin-top: 15px;
+}
+
+.display-4 {
+    margin-top: -20px;
+}
